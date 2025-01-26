@@ -1,12 +1,18 @@
 const projects = [
     {
-        name: "Linkvertise Script",
+        name: "not my website",
         image: "https://placehold.co/600x400.png",
         description: "An advanced auto farming script for Roblox games with multiple features.",
         githubLink: "https://linkvertise.com/1280164/stumble-guys"
     },
     {
-        name: "Non-linkvertise Script",
+        name: "mywebsite",
+        image: "https://placehold.co/600x400.png",
+        description: "A powerful ESP script for tracking players and items in Roblox games.",
+        githubLink: "https://rowebs.vercel.app/Demo/testscript/"
+    },
+    {
+        name: "anotha one",
         image: "https://placehold.co/600x400.png",
         description: "A powerful ESP script for tracking players and items in Roblox games.",
         githubLink: "https://rowebs.vercel.app/Demo/testscript/"
